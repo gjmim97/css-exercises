@@ -1,0 +1,14 @@
+.style1, 
+.style2 {
+    font-size: 28px;
+    font: Helvetica, "Times New Roman", sans-serif;
+}
+
+.style1 { 
+    background-color: rgb(0,0,0);
+    color: rgb(255,255,255);
+}
+
+.style2 { 
+    background-color: #ff0;
+}
